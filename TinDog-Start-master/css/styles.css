@@ -1,0 +1,28 @@
+#title {
+  background-color:#B1D7B4 ;
+}
+h1 {
+   font-family: 'Montserrat, sans-serif';
+     font-size: 3rem;
+       line-height: 1.5;
+        font-weight: 900;}
+#features {
+  background-color: #FFFDE3;
+}
+#testimonials {
+  background-color: #FCF8E8;
+}
+#press { background-color: #E7F6F2;
+}
+#pricing {
+  background-color: #E7F6F2;
+}
+#cta{
+  background-color: #E7F6F2;
+}
+#footer{
+  background-color: #F1F1F1;
+}
+.Copyright {
+margin-right: 50px;
+}
